@@ -6,7 +6,7 @@ Fuel Price Analysis Project involves analyzing fuel price data for three months 
 -                        June prices
 -                        May prices
 -                        Combined data for fuel prices
-- Database Schema: fuelpricesproject.db
+- Database Schema: fuelproject.db0
 
 # Instructions
  Set up a Microsoft SQL Server database.
